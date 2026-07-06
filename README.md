@@ -24,7 +24,7 @@ Group Manager replaces the friction of Godot's built-in Groups dock with a purpo
 4. Find **Group Manager** in the list and toggle **Enable**.
 5. The **Groups** panel appears in the bottom bar, alongside Output and Debugger. Use the location dropdown in the panel's toolbar to move it if you prefer a side dock.
 
-### From the Godot Asset Library
+### From the Godot Asset Library (Pending Approval)
 
 1. In the editor, open the **AssetLib** tab at the top of the window.
 2. Search for **Group Manager** and open its page.
